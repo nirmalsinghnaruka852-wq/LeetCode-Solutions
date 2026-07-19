@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2050-parallel-courses-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2050-parallel-courses-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
