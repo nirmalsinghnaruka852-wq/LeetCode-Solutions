@@ -21,12 +21,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0743-network-delay-time](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0743-network-delay-time](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -36,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0743-network-delay-time](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1791-find-center-of-star-graph](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
@@ -76,5 +79,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 <!---LeetCode Topics End-->
