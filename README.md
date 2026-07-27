@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0827-making-a-large-island](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1627-graph-connectivity-with-threshold](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2050-parallel-courses-iii/) | Hard |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
