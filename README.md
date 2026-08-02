@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0827-making-a-large-island](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [1192-critical-connections-in-a-network](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0827-making-a-large-island](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -201,4 +204,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 <!---LeetCode Topics End-->
