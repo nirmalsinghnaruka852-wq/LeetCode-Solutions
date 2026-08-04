@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2050-parallel-courses-iii/) | Hard |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1627-graph-connectivity-with-threshold](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,4 +226,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
