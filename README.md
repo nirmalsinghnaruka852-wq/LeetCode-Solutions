@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1971-find-if-path-exists-in-graph](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2092-find-all-people-with-secret](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
