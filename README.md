@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1192-critical-connections-in-a-network](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1325-delete-leaves-with-a-given-value](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2092-find-all-people-with-secret](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -252,4 +253,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1325-delete-leaves-with-a-given-value](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1325-delete-leaves-with-a-given-value](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 <!---LeetCode Topics End-->
