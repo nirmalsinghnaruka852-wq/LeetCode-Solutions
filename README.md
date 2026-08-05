@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0486-predict-the-winner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0721-accounts-merge](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0827-making-a-large-island](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0877-stone-game](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0486-predict-the-winner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2050-parallel-courses-iii/) | Hard |
