@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1627-graph-connectivity-with-threshold](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -261,4 +262,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1325-delete-leaves-with-a-given-value](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
