@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0721-accounts-merge](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0925-long-pressed-name](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0925-long-pressed-name/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -304,4 +305,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 <!---LeetCode Topics End-->
