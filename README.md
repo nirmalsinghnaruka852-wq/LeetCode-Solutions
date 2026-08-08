@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,4 +317,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 <!---LeetCode Topics End-->
