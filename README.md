@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0827-making-a-large-island](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0877-stone-game](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1043-partition-array-for-maximum-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0639-decode-ways-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0639-decode-ways-ii/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1043-partition-array-for-maximum-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1406-stone-game-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 ## Topological Sort
