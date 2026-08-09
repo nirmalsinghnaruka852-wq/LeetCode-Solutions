@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0279-perfect-squares](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0486-predict-the-winner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
@@ -341,4 +343,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
