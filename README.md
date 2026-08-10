@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2140-solving-questions-with-brainpower](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2140-solving-questions-with-brainpower](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
