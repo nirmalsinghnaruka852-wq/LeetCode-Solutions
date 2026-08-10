@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0063-unique-paths-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0139-word-break](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0133-clone-graph](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0383-ransom-note](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
@@ -241,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0721-accounts-merge](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
