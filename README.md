@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0377-combination-sum-iv/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0377-combination-sum-iv/) | Medium |
 | [0392-is-subsequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
@@ -407,4 +410,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
