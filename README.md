@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0639-decode-ways-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0639-decode-ways-ii/) | Hard |
+| [0688-knight-probability-in-chessboard](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0688-knight-probability-in-chessboard/) | Medium |
 | [0740-delete-and-earn](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
