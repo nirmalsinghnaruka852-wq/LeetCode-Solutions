@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
+| [1859-sorting-the-sentence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2092-find-all-people-with-secret](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -427,4 +429,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1859-sorting-the-sentence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 <!---LeetCode Topics End-->
