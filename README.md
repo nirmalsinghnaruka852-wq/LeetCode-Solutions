@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-all-paths-from-source-to-target](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0827-making-a-large-island](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0827-making-a-large-island/) | Hard |
+| [0886-possible-bipartition](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0886-possible-bipartition/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-all-paths-from-source-to-target](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0827-making-a-large-island](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0827-making-a-large-island/) | Hard |
+| [0886-possible-bipartition](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0886-possible-bipartition/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0886-possible-bipartition](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0886-possible-bipartition/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
@@ -179,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0827-making-a-large-island](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0827-making-a-large-island/) | Hard |
+| [0886-possible-bipartition](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0886-possible-bipartition/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
@@ -433,4 +437,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1859-sorting-the-sentence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0886-possible-bipartition](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0886-possible-bipartition/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0886-possible-bipartition](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0886-possible-bipartition/) | Medium |
 <!---LeetCode Topics End-->
