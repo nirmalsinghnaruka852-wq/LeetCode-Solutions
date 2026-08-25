@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0376-wiggle-subsequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0377-combination-sum-iv](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0377-combination-sum-iv/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0547-number-of-provinces](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0547-number-of-provinces](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
@@ -134,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0547-number-of-provinces](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
@@ -176,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0827-making-a-large-island](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
@@ -214,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0376-wiggle-subsequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0377-combination-sum-iv](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0377-combination-sum-iv/) | Medium |
 | [0392-is-subsequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -239,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0802-find-eventual-safe-states](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
@@ -368,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0509-fibonacci-number](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -467,5 +475,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 <!---LeetCode Topics End-->
