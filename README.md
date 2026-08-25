@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2140-solving-questions-with-brainpower](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2684-maximum-number-of-moves-in-a-grid/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3731-find-missing-elements](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1289-minimum-falling-path-sum-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2684-maximum-number-of-moves-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3905-multi-source-flood-fill](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3905-multi-source-flood-fill/) | Medium |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2140-solving-questions-with-brainpower](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2140-solving-questions-with-brainpower/) | Medium |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2684-maximum-number-of-moves-in-a-grid/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
