@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0133-clone-graph](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -380,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0040-combination-sum-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0077-combinations](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0077-combinations/) | Medium |
 | [0090-subsets-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
