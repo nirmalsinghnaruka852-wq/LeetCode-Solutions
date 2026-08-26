@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0063-unique-paths-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0090-subsets-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0139-word-break](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0198-house-robber](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0090-subsets-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0140-word-break-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0494-target-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
@@ -507,4 +509,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0090-subsets-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
