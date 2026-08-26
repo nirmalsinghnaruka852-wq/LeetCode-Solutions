@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0040-combination-sum-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0063-unique-paths-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0721-accounts-merge](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0040-combination-sum-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0077-combinations/) | Medium |
 | [0090-subsets-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0140-word-break-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
