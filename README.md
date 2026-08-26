@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1079-letter-tile-possibilities](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0771-jewels-and-stones](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0925-long-pressed-name](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0925-long-pressed-name/) | Easy |
+| [1079-letter-tile-possibilities](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1079-letter-tile-possibilities](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -389,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0494-target-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1079-letter-tile-possibilities](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
