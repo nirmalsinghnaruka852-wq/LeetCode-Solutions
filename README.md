@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0721-accounts-merge](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0771-jewels-and-stones](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0784-letter-case-permutation](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [0925-long-pressed-name](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0140-word-break-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0494-target-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
+| [0784-letter-case-permutation](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 ## Minimax
@@ -523,4 +525,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0784-letter-case-permutation](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
 <!---LeetCode Topics End-->
