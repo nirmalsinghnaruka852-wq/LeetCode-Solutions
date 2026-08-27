@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0060-permutation-sequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0279-perfect-squares](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0279-perfect-squares/) | Medium |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0060-permutation-sequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0486-predict-the-winner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Game Theory
