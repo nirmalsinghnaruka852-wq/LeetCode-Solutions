@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0198-house-robber](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0344-reverse-string](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
@@ -403,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0077-combinations/) | Medium |
 | [0090-subsets-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0140-word-break-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0494-target-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0784-letter-case-permutation](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
