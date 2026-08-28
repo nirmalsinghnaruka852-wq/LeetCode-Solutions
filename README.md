@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1311-get-watched-videos-by-your-friends](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1406-stone-game-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1125-smallest-sufficient-team](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1125-smallest-sufficient-team/) | Hard |
 | [1289-minimum-falling-path-sum-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1406-stone-game-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2140-solving-questions-with-brainpower](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2140-solving-questions-with-brainpower/) | Medium |
@@ -529,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0886-possible-bipartition](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0886-possible-bipartition/) | Medium |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -547,9 +550,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0864-shortest-path-to-get-all-keys](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [1125-smallest-sufficient-team](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1125-smallest-sufficient-team/) | Hard |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [1125-smallest-sufficient-team](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1125-smallest-sufficient-team/) | Hard |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
+## Matching (Graph)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
+## Perfect Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 <!---LeetCode Topics End-->
