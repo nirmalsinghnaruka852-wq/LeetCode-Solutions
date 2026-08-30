@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1035-uncrossed-lines](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1125-smallest-sufficient-team](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1125-smallest-sufficient-team/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-letter-case-permutation](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [0925-long-pressed-name](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1745-palindrome-partitioning-iv](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1745-palindrome-partitioning-iv/) | Hard |
@@ -595,5 +597,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [1035-uncrossed-lines](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1035-uncrossed-lines/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
