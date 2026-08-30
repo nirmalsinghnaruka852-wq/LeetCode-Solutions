@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0639-decode-ways-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0639-decode-ways-ii/) | Hard |
 | [0647-palindromic-substrings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0688-knight-probability-in-chessboard](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0688-knight-probability-in-chessboard/) | Medium |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0740-delete-and-earn](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0639-decode-ways-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0639-decode-ways-ii/) | Hard |
 | [0647-palindromic-substrings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0721-accounts-merge](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0771-jewels-and-stones](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0784-letter-case-permutation](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
@@ -589,5 +591,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
