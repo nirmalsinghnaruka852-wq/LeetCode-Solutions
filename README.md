@@ -335,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1079-letter-tile-possibilities](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1328-break-a-palindrome](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1328-break-a-palindrome/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1745-palindrome-partitioning-iv](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1745-palindrome-partitioning-iv/) | Hard |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
@@ -409,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0376-wiggle-subsequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1328-break-a-palindrome](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1328-break-a-palindrome/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
