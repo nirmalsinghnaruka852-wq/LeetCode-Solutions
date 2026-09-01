@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1079-letter-tile-possibilities](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1328-break-a-palindrome](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1328-break-a-palindrome/) | Medium |
 | [1405-longest-happy-string](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -590,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
