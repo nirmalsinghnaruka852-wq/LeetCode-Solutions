@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0784-letter-case-permutation](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [0925-long-pressed-name](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0925-long-pressed-name/) | Easy |
+| [0984-string-without-aaa-or-bbb](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -411,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0376-wiggle-subsequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0984-string-without-aaa-or-bbb](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1328-break-a-palindrome](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1328-break-a-palindrome/) | Medium |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1663-smallest-string-with-a-given-numeric-value/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
