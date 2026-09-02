@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0851-loud-and-rich](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0851-loud-and-rich/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [0877-stone-game](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [0879-profitable-schemes](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0879-profitable-schemes/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0877-stone-game](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [0879-profitable-schemes](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0879-profitable-schemes/) | Hard |
 | [1035-uncrossed-lines](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
@@ -506,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
+| [0879-profitable-schemes](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0879-profitable-schemes/) | Hard |
 | [1049-last-stone-weight-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
@@ -576,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
+| [0879-profitable-schemes](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0879-profitable-schemes/) | Hard |
 | [1049-last-stone-weight-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
