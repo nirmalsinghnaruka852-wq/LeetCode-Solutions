@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2140-solving-questions-with-brainpower](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2140-solving-questions-with-brainpower/) | Medium |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-max-dot-product-of-two-subsequences](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1745-palindrome-partitioning-iv](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1745-palindrome-partitioning-iv/) | Hard |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2140-solving-questions-with-brainpower](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2684-maximum-number-of-moves-in-a-grid/) | Medium |
