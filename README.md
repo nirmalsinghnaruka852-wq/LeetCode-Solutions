@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0721-accounts-merge](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0740-delete-and-earn](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0688-knight-probability-in-chessboard](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0688-knight-probability-in-chessboard/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0740-delete-and-earn](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
@@ -438,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0376-wiggle-subsequence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0402-remove-k-digits](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0763-partition-labels](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0984-string-without-aaa-or-bbb](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1328-break-a-palindrome](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1328-break-a-palindrome/) | Medium |
