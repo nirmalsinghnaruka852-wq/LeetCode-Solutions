@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1971-find-if-path-exists-in-graph](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2092-find-all-people-with-secret](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -505,10 +506,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1325-delete-leaves-with-a-given-value](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1325-delete-leaves-with-a-given-value](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
