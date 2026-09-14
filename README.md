@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0639-decode-ways-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0639-decode-ways-ii/) | Hard |
 | [0647-palindromic-substrings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
+| [0664-strange-printer](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0664-strange-printer/) | Hard |
 | [0688-knight-probability-in-chessboard](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0688-knight-probability-in-chessboard/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0639-decode-ways-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0639-decode-ways-ii/) | Hard |
 | [0647-palindromic-substrings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
+| [0664-strange-printer](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0664-strange-printer/) | Hard |
 | [0680-valid-palindrome-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0721-accounts-merge](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
