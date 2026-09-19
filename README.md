@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0063-unique-paths-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0078-subsets](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -499,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0140-word-break-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
@@ -651,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0784-letter-case-permutation](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
