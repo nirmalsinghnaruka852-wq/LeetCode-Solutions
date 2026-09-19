@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2050-parallel-courses-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2140-solving-questions-with-brainpower](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2140-solving-questions-with-brainpower/) | Medium |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2684-maximum-number-of-moves-in-a-grid/) | Medium |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1971-find-if-path-exists-in-graph](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2092-find-all-people-with-secret](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2050-parallel-courses-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2092-find-all-people-with-secret](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -326,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0851-loud-and-rich](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0851-loud-and-rich/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 ## Biconnected Component
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -518,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1325-delete-leaves-with-a-given-value](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
