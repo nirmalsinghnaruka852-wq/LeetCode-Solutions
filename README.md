@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1627-graph-connectivity-with-threshold](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2050-parallel-courses-iii/) | Hard |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -576,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Prefix Sum
@@ -589,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Binary Search
@@ -600,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
