@@ -350,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
@@ -662,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0402-remove-k-digits](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -726,4 +728,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
