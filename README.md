@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0279-perfect-squares/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0547-number-of-provinces](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -522,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0140-word-break-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0784-letter-case-permutation](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
