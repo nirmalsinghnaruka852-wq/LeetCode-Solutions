@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0827-making-a-large-island](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0851-loud-and-rich](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0851-loud-and-rich/) | Medium |
+| [0860-lemonade-change](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0864-shortest-path-to-get-all-keys](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [0877-stone-game](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0879-profitable-schemes/) | Hard |
@@ -485,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0763-partition-labels](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
+| [0860-lemonade-change](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0984-string-without-aaa-or-bbb](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1328-break-a-palindrome](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1328-break-a-palindrome/) | Medium |
