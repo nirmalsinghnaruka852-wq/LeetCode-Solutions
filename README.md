@@ -404,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1328-break-a-palindrome](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1328-break-a-palindrome/) | Medium |
 | [1405-longest-happy-string](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1663-smallest-string-with-a-given-numeric-value/) | Medium |
 | [1745-palindrome-partitioning-iv](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1745-palindrome-partitioning-iv/) | Hard |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
@@ -505,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1221-split-a-string-in-balanced-strings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1328-break-a-palindrome](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1328-break-a-palindrome/) | Medium |
 | [1405-longest-happy-string](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1663-smallest-string-with-a-given-numeric-value/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
@@ -695,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -764,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |
