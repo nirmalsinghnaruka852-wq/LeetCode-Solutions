@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1029-two-city-scheduling](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1035-uncrossed-lines](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
@@ -427,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0721-accounts-merge](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0881-boats-to-save-people](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [1029-two-city-scheduling](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -505,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0984-string-without-aaa-or-bbb](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
+| [1029-two-city-scheduling](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1328-break-a-palindrome](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1328-break-a-palindrome/) | Medium |
@@ -777,4 +780,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
+## Hungarian Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1029-two-city-scheduling](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
+## Successive Shortest Path Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1029-two-city-scheduling](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1029-two-city-scheduling/) | Medium |
 <!---LeetCode Topics End-->
