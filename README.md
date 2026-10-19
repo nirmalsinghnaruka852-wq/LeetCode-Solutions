@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1710-maximum-units-on-a-truck](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2140-solving-questions-with-brainpower](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2092-find-all-people-with-secret](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -652,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
