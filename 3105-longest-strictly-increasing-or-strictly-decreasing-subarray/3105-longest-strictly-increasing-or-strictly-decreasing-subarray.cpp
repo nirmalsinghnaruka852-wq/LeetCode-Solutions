@@ -11,12 +11,14 @@ public:
     //   that  ok ;
     int n = nums.size() ;
     int maxOne = 1 ; 
-    vi incressing(n , 1 );
-    vi decressing(n , 1 );
+     int lastElementInc = 1 ;
+     int lastElemntDec = 1  ; 
     for(int index = n-2 ; index >= 0 ; index--){
-        incressing[index] += (nums[index] < nums[index+1]) ?  incressing[index+1] : 0 ; 
-        decressing[index] += (nums[index] > nums[index+1]) ?  decressing[index+1] : 0 ; 
-      maxOne = max(incressing[index] , max(decressing[index] , maxOne));
+          int currentInc= 1 + ((nums[index] < nums[index+1]) ?  lastElementInc : 0 ); 
+         int currentDec = 1 + ((nums[index] > nums[index+1]) ?  lastElemntDec : 0 ); 
+         lastElementInc = currentInc ;
+         lastElemntDec  = currentDec ; 
+      maxOne = max(lastElementInc , max(lastElemntDec , maxOne));
     }
     return maxOne ; 
     }
