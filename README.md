@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1627-graph-connectivity-with-threshold](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-max-dot-product-of-two-subsequences](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1745-palindrome-partitioning-iv](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1745-palindrome-partitioning-iv/) | Hard |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
@@ -479,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1406-stone-game-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
@@ -644,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
