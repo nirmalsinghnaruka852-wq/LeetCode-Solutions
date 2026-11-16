@@ -423,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -547,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Backtracking
