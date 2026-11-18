@@ -426,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2243-calculate-digit-sum-of-a-string](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
