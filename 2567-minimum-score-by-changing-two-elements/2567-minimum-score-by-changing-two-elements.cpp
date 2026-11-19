@@ -34,13 +34,13 @@ public:
 
         if (n <= 3) return 0;
 
-        vi arr = merge(0, n - 1, nums);
+        sort(nums.begin() ,nums.end());
 
         int ans = INT_MAX;
 
-        ans = min(ans, arr[n - 1] - arr[2]);
-        ans = min(ans, arr[n - 2] - arr[1]);
-        ans = min(ans, arr[n - 3] - arr[0]);
+        ans = min(ans, nums[n - 1] - nums[2]);
+        ans = min(ans, nums[n - 2] - nums[1]);
+        ans = min(ans, nums[n - 3] - nums[0]);
 
         return ans;
     }
