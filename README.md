@@ -426,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1859-sorting-the-sentence](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
