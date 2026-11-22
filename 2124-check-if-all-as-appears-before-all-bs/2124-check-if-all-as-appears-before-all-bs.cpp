@@ -11,3 +11,8 @@ public:
        return true ; 
     }
 };
+
+//  TC-O(N);
+//  SC-O(1);
+// time - less then 1 sec ;
+//  memory for space alloaction -> 0 MB;
