@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1289-minimum-falling-path-sum-ii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1311-get-watched-videos-by-your-friends](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1345-jump-game-iv](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1406-stone-game-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1406-stone-game-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
@@ -659,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -784,6 +787,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -824,4 +828,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0182-duplicate-emails](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/0197-rising-temperature/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1527-patients-with-a-condition/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/nirmalsinghnaruka852-wq/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
